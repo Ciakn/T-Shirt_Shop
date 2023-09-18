@@ -1,0 +1,39 @@
+.prudoct{
+    border: 1px solid rgb(220, 219, 219);
+    padding:20px 40px ;
+    border-radius: 10px;
+    box-shadow: 0.2rem 0.2rem 1rem rgba(225, 223, 223, 0.641);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50rem;
+    margin-top: 2rem ;
+    color: #444;
+}
+.button{
+    color: #6d28d9;
+    background-color: white;
+    border: 1px solid #6d28d9;
+    border-radius: 5px;
+    padding: 5px 10px;
+    outline: none;
+    cursor: pointer;
+}
+.inc{
+    background-color:#ede9fe ;
+    
+}
+.value{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: #ede9fe;
+    color: #6d28d9;
+    display: inline-block;
+    text-align: center;
+
+}
+.remove{
+    color: red;
+    border: 1px solid red;
+}
